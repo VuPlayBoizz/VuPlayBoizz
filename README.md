@@ -19,4 +19,7 @@ My name is Nguyen Ba Vu. Fourth-year Electronics and Telecommunications student,
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=Mediplus_Lite&theme=prussian" />
 </a>
-
+<a href="https://github.com/VuPlayBoizz/AWS_VPC_Peering_Terraform">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=AWS_VPC_Peering_Terraform&theme=prussian" />
+</a>
