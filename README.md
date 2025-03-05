@@ -6,3 +6,8 @@ My name is Nguyen Ba Vu. Fourth-year Electronics and Telecommunications student,
 
 
 ![Vu github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VuPlayBoizz&show_icons=true&theme=shades-of-purple&hide=contribs,prs,issues)
+
+<a href="https://github.com/VuPlayBoizz/My_Project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=QuickDraw&theme=prussian" />
+</a>
