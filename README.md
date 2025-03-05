@@ -9,14 +9,14 @@ My name is Nguyen Ba Vu. Fourth-year Electronics and Telecommunications student,
 
 <a href="https://github.com/VuPlayBoizz/My_Project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=My_Project&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=My_Project&theme=prussian" />
 </a>
 <a href="https://github.com/VuPlayBoizz/AWS_EKS_Terrafrom">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=AWS_EKS_Terrafrom&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=AWS_EKS_Terrafrom&theme=prussian" />
 </a>
 <a href="https://github.com/VuPlayBoizz/Mediplus_Lite">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=Mediplus_Lite&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=Mediplus_Lite&theme=prussian" />
 </a>
 
