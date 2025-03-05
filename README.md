@@ -3,7 +3,8 @@ My name is Nguyen Ba Vu. Fourth-year Electronics and Telecommunications student,
 ## 📫 How to reach me: 
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/v%C5%A9-nguy%E1%BB%85n-9762b1208/) 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/VuPlayBoizz) 
-[![Gmail](https://i.stack.imgur.com/7bI2i.png) Gmail](mailto:nguyenbavu1902@gmail.com)
+<br>
+Mail to: nguyenbavu1902@gmail.com
 
 
 
