@@ -11,4 +11,12 @@ My name is Nguyen Ba Vu. Fourth-year Electronics and Telecommunications student,
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=My_Project&theme=cobalt" />
 </a>
+<a href="https://github.com/VuPlayBoizz/AWS_EKS_Terrafrom">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=AWS_EKS_Terrafrom&theme=cobalt" />
+</a>
+<a href="https://github.com/VuPlayBoizz/Mediplus_Lite">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=Mediplus_Lite&theme=cobalt" />
+</a>
 
