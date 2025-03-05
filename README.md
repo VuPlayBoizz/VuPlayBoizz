@@ -3,4 +3,4 @@ My name is Nguyen Ba Vu. Fourth-year Electronics and Telecommunications student,
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/v%C5%A9-nguy%E1%BB%85n-9762b1208/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/VuPlayBoizz)
 <br>
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VuPlayBoizz&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VuPlayBoizz&show_icons=true&theme=shades-of-purple&hide=contribs,prs,issues)
