@@ -5,7 +5,6 @@ My name is Nguyen Ba Vu. Fourth-year Electronics and Telecommunications student,
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/VuPlayBoizz) 
 <br>
 Mail to: nguyenbavu1902@gmail.com
-![image](https://github.com/user-attachments/assets/a2e68ada-ddca-42e7-8f98-1abbfe6401d3)
 
 
 
