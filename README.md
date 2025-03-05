@@ -5,4 +5,4 @@ My name is Nguyen Ba Vu. Fourth-year Electronics and Telecommunications student,
 
 
 
-![Vu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VuPlayBoizz&show_icons=true&theme=shades-of-purple&hide=contribs,prs,issues)
+![Vu github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VuPlayBoizz&show_icons=true&theme=shades-of-purple&hide=contribs,prs,issues)
