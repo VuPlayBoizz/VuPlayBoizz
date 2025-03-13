@@ -9,9 +9,9 @@ Mail to: nguyenbavu1902@gmail.com
 
 ![Vu github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VuPlayBoizz&show_icons=true&theme=shades-of-purple&hide=contribs,prs,issues)
 
-<a href="https://github.com/VuPlayBoizz/My_Project">
+<a href="https://github.com/VuPlayBoizz/Mock_Project_v1">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=My_Project&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VuPlayBoizz&repo=Mock_Project_v1&theme=prussian" />
 </a>
 <a href="https://github.com/VuPlayBoizz/AWS_EKS_Terrafrom">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
